@@ -14,12 +14,12 @@
 
 ```
 wiki/
-├── Home.md              # 홈 (목차)
-├── Server-Setup.md      # 서버 설정
-├── OpenClaw-Setup.md    # OpenClaw 설정
-├── Tools-Gog.md         # gog 사용법
-├── Tools-GitHub.md      # GitHub CLI
-└── Troubleshooting.md   # 트러블슈팅
+├── Home.md                  # 홈 (목차)
+├── Server-Setup.md          # Oracle ARM 서버 설정
+├── VNC-Setup.md             # 원격 데스크탑 (Xfce + TigerVNC)
+├── Tailscale-ExitNode.md    # Exit Node 및 IP 우회
+├── OpenClaw-MultiAgent.md   # 멀티 에이전트 설정
+└── Tools-Gog.md             # Google Calendar CLI
 ```
 
 ---

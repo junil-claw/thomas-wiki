@@ -52,3 +52,6 @@ vncserver -kill :1
 sudo apt install -y fonts-noto-cjk fonts-nanum
 ```
 설치 후 브라우저 새로고침
+
+---
+*마지막 업데이트: 2026-02-06*

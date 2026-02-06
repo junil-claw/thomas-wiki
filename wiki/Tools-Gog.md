@@ -59,4 +59,4 @@ gog calendar create <calendar_id> --summary "회의" --from "2026-02-10T14:00:00
 - **no TTY for keyring**: `GOG_KEYRING_PASSWORD` 환경변수 설정
 
 ---
-*작성: 2026-02-06*
+*마지막 업데이트: 2026-02-06*

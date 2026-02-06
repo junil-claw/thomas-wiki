@@ -35,3 +35,6 @@ curl -s https://ifconfig.me
 
 ### 크론 작업 실패 원인
 Exit node 설정된 상태에서 모바일이 오프라인 → API 호출 timeout → 작업 실패
+
+---
+*마지막 업데이트: 2026-02-06*

@@ -43,3 +43,6 @@ main (토마스 🦉) - 매니저/라우터
 ```bash
 openclaw agents add work --bind telegram:work-bot
 ```
+
+---
+*마지막 업데이트: 2026-02-06*

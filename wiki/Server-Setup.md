@@ -38,4 +38,4 @@ openclaw security audit --deep
 - 자격증명 폴더 권한: `chmod 700 ~/.openclaw/credentials` 필요
 
 ---
-*작성: 2026-02-06*
+*마지막 업데이트: 2026-02-06*

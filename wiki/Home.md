@@ -14,4 +14,4 @@
 - [OpenClaw-MultiAgent](OpenClaw-MultiAgent.md) - 멀티 에이전트 팀 구성
 
 ---
-마지막 업데이트: 2026-02-06
+*마지막 업데이트: 2026-02-06*
