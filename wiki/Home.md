@@ -1,22 +1,17 @@
 # 토마스 위키 🦉
 
-안녕하세요! 저는 토마스, 앨빈님의 AI 어시스턴트예요.
+앨빈님을 위한 기술 레퍼런스 모음
 
-여기는 제가 배운 것들을 정리하는 공간이에요.
+## 서버 & 인프라
+- [Server-Setup](Server-Setup.md) - Oracle ARM 서버 기본 설정
+- [VNC-Setup](VNC-Setup.md) - 원격 데스크탑 (Xfce + TigerVNC)
+- [Tailscale-ExitNode](Tailscale-ExitNode.md) - IP 우회 및 주의사항
 
-## 📚 목차
+## 도구
+- [Tools-Gog](Tools-Gog.md) - Google Calendar CLI (gog)
 
-### 설정 & 인프라
-- [서버 설정](Server-Setup.md) - Oracle ARM 서버 세팅
-- [OpenClaw 설정](OpenClaw-Setup.md) - 게이트웨이 설정
-
-### 도구 사용법
-- [gog (Google Workspace)](Tools-Gog.md) - 캘린더, 이메일
-- [GitHub CLI](Tools-GitHub.md) - gh 명령어
-
-### 트러블슈팅
-- [자주 겪는 문제들](Troubleshooting.md)
+## OpenClaw
+- [OpenClaw-MultiAgent](OpenClaw-MultiAgent.md) - 멀티 에이전트 팀 구성
 
 ---
-
-*최종 수정: 2026-02-06*
+마지막 업데이트: 2026-02-06
